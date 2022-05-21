@@ -5,7 +5,7 @@
 ### Hackerrank Leaderboard Rank: 1st
 ### Award: Champion
 ### Date: May 21, 2022
-### Prize: PHP 1500.00
+### Prize: PHP 3000.00
 ## Contest Link (Hackerrank)
 Link: https://www.hackerrank.com/contests/pytournament-competition-page/challenges
 ## Problem 1 - Easy (Look Into My Tweet - Fully Solved: 10 Points out of 10 Points)
