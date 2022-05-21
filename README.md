@@ -4,7 +4,7 @@
 ### Total Points: 95.00
 ### Hackerrank Leaderboard Rank: 1st
 ### Award: Champion
-### Date: May 21, 2022
+### Date: May 21, 2022 (bday ko hehe)
 ### Prize: PHP 3000.00
 ## Contest Link (Hackerrank)
 Link: https://www.hackerrank.com/contests/pytournament-competition-page/challenges
